@@ -295,16 +295,29 @@ Sub-Saharan Africa	ZAF	710	SF	South Africa	Pretoria	1219912	49000000	AF	.za	ZAR	
 Sub-Saharan Africa	ZMB	894	ZA	Zambia	Lusaka	752614	13460305	AF	.zm	ZMW	Kwacha	260	#####	^(\d{5})$	en-ZM,bem,loz,lun,lue,ny,toi	895949	ZW,TZ,MZ,CD,NA,MW,AO	
 Sub-Saharan Africa	ZWE	716	ZI	Zimbabwe	Harare	390580	11651858	AF	.zw	ZWL	Dollar	263			en-ZW,sn,nr,nd	878675	ZA,MZ,BW,ZM	
 Europe	ANT	530	NT	Netherlands Antilles	Willemstad	960	136197	NA	.an	ANG	Guilder	599			nl-AN,en,es		GP	
-Europe	ANT	530	NT	Europe 
-Latin America	ANT	530	NT	Latin Africa 
-Latin America	ANT	530	NT	Caribbean 
-North America	ANT	530	NT	North America 
-Indian Subcontinent	ANT	530	NT	Indian Subcontinent 
-Sub-Saharan Africa	ANT	530	NT	Sub-Saharan Africa 
-MENA	ANT	530	NT	Middle East 
-MENA	ANT	530	NT	Middle-East 
-MENA	ANT	530	NT	North Africa 
-East Asia	ANT	530	NT	East Asia
-Central Asia	ANT	530	NT	Central Asia
-Pacific	ANT	530	NT	Pacific Island
-Pacific	ANT	530	NT	Pacific 
+Europe	ANT	530	NT	Europe Antilles	Willemstad	960	136197	NA	.an	ANG	Guilder	599			nl-AN,en,es		GP	
+Latin America	ANT	530	NT	Latin America Antilles	Willemstad	960	136197	NA	.an	ANG	Guilder	599			nl-AN,en,es		GP	
+Latin America	ANT	530	NT	Caribbean Antilles	Willemstad	960	136197	NA	.an	ANG	Guilder	599			nl-AN,en,es		GP	
+North America	ANT	530	NT	North America Antilles	Willemstad	960	136197	NA	.an	ANG	Guilder	599			nl-AN,en,es		GP	
+Indian Subcontinent	ANT	530	NT	Indian Subcontinent Antilles	Willemstad	960	136197	NA	.an	ANG	Guilder	599			nl-AN,en,es		GP	
+Sub-Saharan Africa	ANT	530	NT	Sub-Saharan Africa Antilles	Willemstad	960	136197	NA	.an	ANG	Guilder	599			nl-AN,en,es		GP	
+MENA	ANT	530	NT	Middle East Antilles	Willemstad	960	136197	NA	.an	ANG	Guilder	599			nl-AN,en,es		GP	
+MENA	ANT	530	NT	Middle-East Antilles	Willemstad	960	136197	NA	.an	ANG	Guilder	599			nl-AN,en,es		GP	
+MENA	ANT	530	NT	North Africa Antilles	Willemstad	960	136197	NA	.an	ANG	Guilder	599			nl-AN,en,es		GP	
+East Asia	ANT	530	NT	East Asia Antilles	Willemstad	960	136197	NA	.an	ANG	Guilder	599			nl-AN,en,es		GP	
+Central Asia	ANT	530	NT	Central Asia Antilles	Willemstad	960	136197	NA	.an	ANG	Guilder	599			nl-AN,en,es		GP	
+Pacific	ANT	530	NT	Pacific Island Antilles	Willemstad	960	136197	NA	.an	ANG	Guilder	599			nl-AN,en,es		GP	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
