@@ -79,7 +79,7 @@ East Asia	BRN	096	BX	Brunei	Bandar Seri Begawan	5770	395027	AS	.bn	BND	Dollar	67
 Latin America	BOL	068	BL	Bolivia	Sucre	1098580	9947418	SA	.bo	BOB	Boliviano	591			es-BO,qu,ay	3923057	PE,CL,PY,BR,AR	
 Latin America	BES	535		Bonaire, Saint Eustatius and Saba 			18012	NA	.bq	USD	Dollar	599			nl,pap,en	7626844		
 Latin America	BRA	076	BR	Brazil	Brasilia	8511965	201103330	SA	.br	BRL	Real	55	#####-###	^(\d{8})$	pt-BR,es,en,fr	3469034	SR,PE,BO,UY,GY,PY,GF,VE,CO,AR	
-BS	BHS	044	BF	Bahamas	Nassau	13940	301790	NA	.bs	BSD	Dollar	+1-242			en-BS	3572887		
+Latin America	BHS	044	BF	Bahamas	Nassau	13940	301790	NA	.bs	BSD	Dollar	+1-242			en-BS	3572887		
 Indian Subcontinent	BTN	064	BT	Bhutan	Thimphu	47000	699847	AS	.bt	BTN	Ngultrum	975			dz	1252634	CN,IN	
 Latin America	BVT	074	BV	Bouvet Island			0	AN	.bv	NOK	Krone					3371123		
 Sub-Saharan Africa	BWA	072	BC	Botswana	Gaborone	600370	2029307	AF	.bw	BWP	Pula	267			en-BW,tn-BW	933860	ZW,ZA,NA	
