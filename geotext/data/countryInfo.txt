@@ -295,29 +295,17 @@ Sub-Saharan Africa	ZAF	710	SF	South Africa	Pretoria	1219912	49000000	AF	.za	ZAR	
 Sub-Saharan Africa	ZMB	894	ZA	Zambia	Lusaka	752614	13460305	AF	.zm	ZMW	Kwacha	260	#####	^(\d{5})$	en-ZM,bem,loz,lun,lue,ny,toi	895949	ZW,TZ,MZ,CD,NA,MW,AO	
 Sub-Saharan Africa	ZWE	716	ZI	Zimbabwe	Harare	390580	11651858	AF	.zw	ZWL	Dollar	263			en-ZW,sn,nr,nd	878675	ZA,MZ,BW,ZM	
 Europe	ANT	530	NT	Netherlands Antilles	Willemstad	960	136197	NA	.an	ANG	Guilder	599			nl-AN,en,es		GP	
-Europe	ANT	530	NT	Europe Antilles	Willemstad	960	136197	NA	.an	ANG	Guilder	599			nl-AN,en,es		GP	
-Latin America	ANT	530	NT	Latin America Antilles	Willemstad	960	136197	NA	.an	ANG	Guilder	599			nl-AN,en,es		GP	
-Latin America	ANT	530	NT	Caribbean Antilles	Willemstad	960	136197	NA	.an	ANG	Guilder	599			nl-AN,en,es		GP	
-North America	ANT	530	NT	North America Antilles	Willemstad	960	136197	NA	.an	ANG	Guilder	599			nl-AN,en,es		GP	
-Indian Subcontinent	ANT	530	NT	Indian Subcontinent Antilles	Willemstad	960	136197	NA	.an	ANG	Guilder	599			nl-AN,en,es		GP	
-Sub-Saharan Africa	ANT	530	NT	Sub-Saharan Africa Antilles	Willemstad	960	136197	NA	.an	ANG	Guilder	599			nl-AN,en,es		GP	
-MENA	ANT	530	NT	Middle East Antilles	Willemstad	960	136197	NA	.an	ANG	Guilder	599			nl-AN,en,es		GP	
-MENA	ANT	530	NT	Middle-East Antilles	Willemstad	960	136197	NA	.an	ANG	Guilder	599			nl-AN,en,es		GP	
-MENA	ANT	530	NT	North Africa Antilles	Willemstad	960	136197	NA	.an	ANG	Guilder	599			nl-AN,en,es		GP	
-East Asia	ANT	530	NT	East Asia Antilles	Willemstad	960	136197	NA	.an	ANG	Guilder	599			nl-AN,en,es		GP	
-Central Asia	ANT	530	NT	Central Asia Antilles	Willemstad	960	136197	NA	.an	ANG	Guilder	599			nl-AN,en,es		GP	
-Pacific	ANT	530	NT	Pacific Island Antilles	Willemstad	960	136197	NA	.an	ANG	Guilder	599			nl-AN,en,es		GP	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Europe	GRL	304	GL	Europe	Nuuk	2166086	56375	NA	.gl	DKK	Krone	299	####	^(\d{4})$	kl,da-GL,en	3425505		
+Latin America	GRL	304	GL	Latin America	Nuuk	2166086	56375	NA	.gl	DKK	Krone	299	####	^(\d{4})$	kl,da-GL,en	3425505		
+Latin America	GRL	304	GL	Caribbean	Nuuk	2166086	56375	NA	.gl	DKK	Krone	299	####	^(\d{4})$	kl,da-GL,en	3425505		
+North America	GRL	304	GL	North America	Nuuk	2166086	56375	NA	.gl	DKK	Krone	299	####	^(\d{4})$	kl,da-GL,en	3425505		
+Indian Subcontinent	GRL	304	GL	Indian Subcontinent	Nuuk	2166086	56375	NA	.gl	DKK	Krone	299	####	^(\d{4})$	kl,da-GL,en	3425505		
+Sub-Saharan Africa	GRL	304	GL	Sub-Saharan Africa	Nuuk	2166086	56375	NA	.gl	DKK	Krone	299	####	^(\d{4})$	kl,da-GL,en	3425505		
+MENA	GRL	304	GL	Middle East	Nuuk	2166086	56375	NA	.gl	DKK	Krone	299	####	^(\d{4})$	kl,da-GL,en	3425505		
+MENA	GRL	304	GL	Middle-East	Nuuk	2166086	56375	NA	.gl	DKK	Krone	299	####	^(\d{4})$	kl,da-GL,en	3425505		
+MENA	GRL	304	GL	North Africa	Nuuk	2166086	56375	NA	.gl	DKK	Krone	299	####	^(\d{4})$	kl,da-GL,en	3425505		
+East Asia	GRL	304	GL	East Asia	Nuuk	2166086	56375	NA	.gl	DKK	Krone	299	####	^(\d{4})$	kl,da-GL,en	3425505		
+Central Asia	GRL	304	GL	Central Asia	Nuuk	2166086	56375	NA	.gl	DKK	Krone	299	####	^(\d{4})$	kl,da-GL,en	3425505		
+Pacific	GRL	304	GL	Pacific Island	Nuuk	2166086	56375	NA	.gl	DKK	Krone	299	####	^(\d{4})$	kl,da-GL,en	3425505		
+Pacific	GRL	304	GL	Pacific Islands	Nuuk	2166086	56375	NA	.gl	DKK	Krone	299	####	^(\d{4})$	kl,da-GL,en	3425505		
+Pacific	GRL	304	GL	Pacific	Nuuk	2166086	56375	NA	.gl	DKK	Krone	299	####	^(\d{4})$	kl,da-GL,en	3425505		
