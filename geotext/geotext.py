@@ -22,19 +22,12 @@ MATCH_TYPES = {COUNTRIES, ADMIN_DIVISIONS, CITIES, NATIONALITIES}
 
 # Common words that are also nationalities / admin divisions / cities
 BLACKLIST = {
-    'asia', # a city in the Phillipines
     'bar',
     'bay',
     'can',
-    'central',
-    'eastern',
-    'north',
-    'northern',
     'of',
     'pole',
-    'southern',
     'university',
-    'western',
 }
 
 
