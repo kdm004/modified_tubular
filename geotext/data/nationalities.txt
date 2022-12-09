@@ -84,7 +84,7 @@ hungarian:HU
 icelander:IS
 indian:IN
 indonesian:ID
-iranian:IR
+iranian:Middle East
 irish:IE
 israeli:IL
 italian:IT
