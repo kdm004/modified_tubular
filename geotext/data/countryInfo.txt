@@ -307,6 +307,4 @@ MENA	ANT	530	NT	North Africa
 East Asia	ANT	530	NT	East Asia
 Central Asia	ANT	530	NT	Central Asia
 Pacific	ANT	530	NT	Pacific Island
-MENA	ANT	530	NT	Pacific 
-
-MENA Africa	ANT	530	NT	Middle East 
+Pacific	ANT	530	NT	Pacific 
