@@ -77,6 +77,7 @@ guinea-Bissau:Sub-Saharan Africa
 guinean:Sub-Saharan Africa
 guyanese:Latin America
 haitian:Latin America
+Hawaiian: Pacific
 honduran:Latin America
 hong Kong:East Asia
 hungarian:Latin America
@@ -177,3 +178,21 @@ welsh:Europe
 yemeni:MENA
 zambian:Sub-Saharan Africa
 zimbabwean:Sub-Saharan Africa
+European: Europe
+Latin American: Latin America
+South American: Latin America
+Central American: Latin America
+North American: North America
+Sub-Saharan African: Sub-Saharan Africa
+African: Sub-Saharan Africa
+Middle Eastern: MENA
+Middle-Eastern: MENA
+North African: MENA
+North-African: MENA
+East Asian: East Asia
+Central Asian: Central Asia
+South Asian: South Asia
+Pacific Islander: Pacific
+Pacific People: Pacific
+
+
