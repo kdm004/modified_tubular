@@ -141,7 +141,8 @@ Latin America	SGS	239	SX	South Georgia and the South Sandwich Islands	Grytviken	
 Latin America	GTM	320	GT	Guatemala	Guatemala City	108890	13550440	NA	.gt	GTQ	Quetzal	502	#####	^(\d{5})$	es-GT	3595528	MX,HN,BZ,SV	
 Latin America	GUM	316	GQ	Guam	Hagatna	549	159358	OC	.gu	USD	Dollar	+1-671	969##	^(969\d{2})$	en-GU,ch-GU	4043988		
 Sub-Saharan Africa	GNB	624	PU	Guinea-Bissau	Bissau	36120	1565126	AF	.gw	XOF	Franc	245	####	^(\d{4})$	pt-GW,pov	2372248	SN,GN	
-Latin America	GUY	328	GY	Guyana	Georgetown	214970	748486	SA	.gy	GYD	Dollar	592			en-GY	3378535	SR,BR,VE	
+Latin America	GUY	328	GY	Guyana	Georgetown	214970	748486	SA	.gy	GYD	Dollar	592			en-GY	3378535	SR,BR,VE
+Pacific	GRL	304	GL	Hawaii	Nuuk	2166086	56375	NA	.gl	DKK	Krone	299	####	^(\d{4})$	kl,da-GL,en	3425505		
 East Asia	HKG	344	HK	Hong Kong	Hong Kong	1092	6898686	AS	.hk	HKD	Dollar	852			zh-HK,yue,zh,en	1819730		
 Pacific	HMD	334	HM	Heard Island and McDonald Islands		412	0	AN	.hm	AUD	Dollar	 				1547314		
 Latin America	HND	340	HO	Honduras	Tegucigalpa	112090	7989415	NA	.hn	HNL	Lempira	504	@@####	^([A-Z]{2}\d{4})$	es-HN	3608932	GT,NI,SV	
@@ -296,7 +297,9 @@ Sub-Saharan Africa	ZMB	894	ZA	Zambia	Lusaka	752614	13460305	AF	.zm	ZMW	Kwacha	26
 Sub-Saharan Africa	ZWE	716	ZI	Zimbabwe	Harare	390580	11651858	AF	.zw	ZWL	Dollar	263			en-ZW,sn,nr,nd	878675	ZA,MZ,BW,ZM	
 Europe	ANT	530	NT	Netherlands Antilles	Willemstad	960	136197	NA	.an	ANG	Guilder	599			nl-AN,en,es		GP	
 Europe	GRL	304	GL	Europe	Nuuk	2166086	56375	NA	.gl	DKK	Krone	299	####	^(\d{4})$	kl,da-GL,en	3425505		
-Latin America	GRL	304	GL	Latin America	Nuuk	2166086	56375	NA	.gl	DKK	Krone	299	####	^(\d{4})$	kl,da-GL,en	3425505		
+Latin America	GRL	304	GL	Latin America	Nuuk	2166086	56375	NA	.gl	DKK	Krone	299	####	^(\d{4})$	kl,da-GL,en	3425505	
+Latin America	GRL	304	GL	South America	Nuuk	2166086	56375	NA	.gl	DKK	Krone	299	####	^(\d{4})$	kl,da-GL,en	3425505		
+Latin America	GRL	304	GL	Central America	Nuuk	2166086	56375	NA	.gl	DKK	Krone	299	####	^(\d{4})$	kl,da-GL,en	3425505		
 Latin America	GRL	304	GL	Caribbean	Nuuk	2166086	56375	NA	.gl	DKK	Krone	299	####	^(\d{4})$	kl,da-GL,en	3425505		
 North America	GRL	304	GL	North America	Nuuk	2166086	56375	NA	.gl	DKK	Krone	299	####	^(\d{4})$	kl,da-GL,en	3425505		
 Indian Subcontinent	GRL	304	GL	Indian Subcontinent	Nuuk	2166086	56375	NA	.gl	DKK	Krone	299	####	^(\d{4})$	kl,da-GL,en	3425505		
