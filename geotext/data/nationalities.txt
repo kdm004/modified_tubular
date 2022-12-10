@@ -3,178 +3,177 @@
 #  Extracted from http://en.wikipedia.org/wiki/Lists_of_people_by_nationality   #
 #                                                                               #
 #################################################################################
-afghan:AF
+afghan:Indian Subcontinent
 albanian:AL
-algerian:DZ
-american:US
-andorran:AD
-angolan:AO
-argentine:AR
-argentinian:AR
-armenian:AM
-aruban:AW
-australian:AU
-austrian:AT
-azeri:AZ
-bahamian:BS
-bahraini:BH
-bangladeshi:BD
-barbadian:BB
-belarusian:BY
-belgian:BE
-belizean:BZ
-bermudian:BM
-bosniak:BA
-bosnian:BA
-brasilian:BR
-brazilian:BR
-breton:GB
-british Virgin Islander:VG
-british:GB
-bulgarian:BG
-burkinabè:BF
-burundian:BI
-cambodian:KH
-cameroonian:CM
-canadian:CA
-cape Verdean:CV
-catalan:ES
-chadian:TD
-chilean:CL
-chinese:CN
-comorian:KM
-congolese:CG
-croatian:HR
-cuban:CU
-cypriot:CY
-czech:CZ
-dane:DK
-dominican:DM
-dominican:DO
-dutch:NL
-east Timorese:TL
-ecuadorian:EC
-egyptian:EG
-emirati:AE
-english:GB
-eritrean:ER
-estonian:EE
-ethiopian:ET
-faroese:FO
-fijian:FJ
-filipino:PH
-finn:FI
-finnish:FI
-french:FR
-georgian:GE
-german:DE
-ghanaian:GH
-gibraltar:GI
-greek:GR
-grenadian:GD
-guatemalan:GT
-guianese:GF
-guinea-Bissau:GW
-guinean:GN
-guyanese:GY
-haitian:HT
-honduran:HN
-hong Kong:HK
-hungarian:HU
-icelander:IS
-indian:IN
-indonesian:ID
-iranian:Middle East
-irish:IE
-israeli:IL
-italian:IT
-jamaican:JM
-japanese:JP
-jordanian:JO
-kazakh:KZ
-kenyan:KE
-korean:KR
-kuwaiti:KW
-lao:LA
-latvian:LV
-lebanese:LB
-liberian:LR
-libyan:LY
-liechtensteiner:LI
-lithuanian:LT
-luxembourger:LU
-macedonian:MK
-malawian:MW
-malaysian:MY
-maldivian:MV
-malian:ML
-maltese:MT
-manx:IM
-mauritian:MR
-mexican:MX
-moldovan:MD
-mongolian:MN
-montenegrin:ME
-moroccan:MA
-namibian:NA
-nepalese:NP
-new Zealander:NZ
-nicaraguan:NI
-nigerian:NG
-nigerien:NE
-norwegian:NO
-pakistani:PK
-palauan:PW
-palestinian:PS
-panamanian:PA
-papua New Guinean:PG
-paraguayan:PY
-peruvian:PE
-pole:PL
-portuguese:PT
-puerto Rican:PR
-quebecer:CA
-romanian:RO
-russian:RU
-rwandan:RW
-réunionnai:RE
-salvadoran:SV
-saudi:SA
-senegalese:SN
-serb:RS
-sierra Leonean:SL
-singaporean:SG
-slovak:SK
-slovene:SI
-somali:SO
-south african:ZA
-south korean:KR
-spanish:ES
-sri Lankan:LK
-st Lucian:LC
-sudanese:SD
-surinamese:SR
-swedish:SE
-swiss:SZ
-syrian:SY
-são Tomé and Príncipe:ST
-taiwanese:TW
-tanzanian:TZ
-thai:TH
-tobagonian:TT
-trinidadian:TT
-tunisian:TN
-turk:TR
-turkish:TR
-tuvaluan:TV
-ugandan:UG
-ukrainian:UA
-uruguayan:UY
-uzbek:UZ
-vanuatuan:VU
-venezuelan:VE
-vietnamese:VN
-welsh:GB
-yemeni:YE
-zambian:ZM
-zimbabwean:ZW
+algerian:MENA
+andorran:Europe
+angolan:Sub-Saharan Africa
+argentine:Latin America
+argentinian:Latin America
+armenian:Europe
+aruban:Latin America
+australian:Pacific
+austrian:Europe
+azeri:Central Asia
+bahamian:Latin America
+bahraini:MENA
+bangladeshi:Indian Subcontinent
+barbadian:Latin America
+belarusian:Europe
+belgian:Europe
+belizean:Latin America
+bermudian:North America
+bosniak:Europe
+bosnian:Europe
+brasilian:Latin America
+brazilian:Latin America
+breton:Europe
+british Virgin Islander:Latin America
+british:Europe
+bulgarian:Europe
+burkinabè:Sub-Saharan Africa
+burundian:Sub-Saharan Africa
+cambodian:East Asia
+cameroonian:Sub-Saharan Africa
+canadian:North America
+cape Verdean:Sub-Saharan Africa
+catalan:Europe
+chadian:Sub-Saharan Africa
+chilean:Latin America
+chinese:East Asia
+comorian:Sub-Saharan Africa
+congolese:Sub-Saharan Africa
+croatian:Europe
+cuban:Latin America
+cypriot:Europe
+czech:Europe
+dane:Europe
+dominican:Latin America
+dominican:Latin America
+dutch:Europe
+east Timorese:East Asia
+ecuadorian:Latin America
+egyptian:MENA
+emirati:MENA
+english:Europe
+eritrean:Sub-Saharan Africa
+estonian:Europe
+ethiopian:Sub-Saharan Africa
+faroese:Europe
+fijian:Pacific
+filipino:East Asia
+finn:Europe
+finnish:Europe
+french:Europe
+georgian:Europe
+german:Europe
+ghanaian:Sub-Saharan Africa
+gibraltar:Europe
+greek:Europe
+grenadian:Latin America
+guatemalan:Latin America
+guianese:Sub-Saharan Africa
+guinea-Bissau:Sub-Saharan Africa
+guinean:Sub-Saharan Africa
+guyanese:Latin America
+haitian:Latin America
+honduran:Latin America
+hong Kong:East Asia
+hungarian:Latin America
+icelander:Europe
+indian:Indian Subcontinent
+indonesian:East Asia
+iranian:MENA
+irish:Europe
+israeli:MENA
+italian:Europe
+jamaican:Latin America
+japanese:East Asia
+jordanian:MENA
+kazakh:Central Asia
+kenyan:Sub-Saharan Africa
+korean:East Asia
+kuwaiti:MENA
+lao:East Asia
+latvian:Europe
+lebanese:MENA
+liberian:Sub-Saharan Africa
+libyan:MENA
+liechtensteiner:Europe
+lithuanian:Europe
+luxembourger:Europe
+macedonian:Europe
+malawian:Sub-Saharan Africa
+malaysian:East Asia
+maldivian:Indian Subcontinent
+malian:Sub-Saharan Africa
+maltese:Europe
+manx:Europe
+mauritian:Sub-Saharan Africa
+mexican:Latin America
+moldovan:Europe
+mongolian:East Asia
+montenegrin:Europe
+moroccan:MENA
+namibian:Sub-Saharan Africa
+nepalese:Indian Subcontinent
+new Zealander:Pacific
+nicaraguan:Latin America
+nigerian:Sub-Saharan Africa
+nigerien:Sub-Saharan Africa
+norwegian:Europe
+pakistani:Indian Subcontinent
+palauan:Pacific
+palestinian:MENA
+panamanian:Latin America
+papua New Guinean:East Asia
+paraguayan:Latin America
+peruvian:Latin America
+pole:Europe
+portuguese:Europe
+puerto Rican:Latin America
+quebecer:North America
+romanian:Europe
+russian:Europe
+rwandan:Sub-Saharan Africa
+réunionnai:Pacific
+salvadoran:Latin America
+saudi:MENA
+senegalese:Sub-Saharan Africa
+serb:Europe
+sierra Leonean:Sub-Saharan Africa
+singaporean:East Asia
+slovak:Europe
+slovene:Europe
+somali:Sub-Saharan Africa
+south african:Sub-Saharan Africa
+south korean:East Asia
+spanish:Europe
+sri Lankan:Indian Subcontinent
+st Lucian:Latin America
+sudanese:Sub-Saharan Africa
+surinamese:Latin America
+swedish:Europe
+swiss:Europe
+syrian:MENA
+são Tomé and Príncipe:Sub-Saharan Africa
+taiwanese:East Asia
+tanzanian:Sub-Saharan Africa
+thai:East Asia
+tobagonian:Latin America
+trinidadian:Latin America
+tunisian:MENA
+turk:Latin America
+turkish:Europe
+tuvaluan:Pacific
+ugandan:Sub-Saharan Africa
+ukrainian:Europe
+uruguayan:Latin America
+uzbek:Central Asia
+vanuatuan:Pacific
+venezuelan:Latin America
+vietnamese:East Asia
+welsh:Europe
+yemeni:MENA
+zambian:Sub-Saharan Africa
+zimbabwean:Sub-Saharan Africa
